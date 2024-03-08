@@ -1,0 +1,6 @@
+{
+  "appTitle": "integration_test_try",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
